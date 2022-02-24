@@ -46,7 +46,7 @@ char * Mystring_strrchr(char const string[], int character){
     return 0;
 }*/
 
-// exo 3
+// EXO 3
 
 int main(void) {
     char s[] = "ciao";
@@ -61,3 +61,15 @@ int main(void) {
         printf("%s est inferieur \n", t);
     return 0;
 }
+
+// EXO 4
+
+/*int MyString_strcmp ( char const string1 [] , char const string2 []);
+int MyString_strncmp ( char const string1 [] , char const string2 [] , size_t n );
+
+void MyString_Test_strcmp (void );
+void MyStringTest_strncmp (void);
+
+for (int i=0; i>2; i++){
+    if
+}*/
